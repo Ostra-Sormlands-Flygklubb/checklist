@@ -278,6 +278,7 @@
       [
         #set align(right + bottom)
         #set text(size: 8pt)
+        Hans Insulander, ÖSFK \
         https://github.com/hin/osfk-checklist
       ]
     )
