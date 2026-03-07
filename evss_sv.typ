@@ -1,4 +1,3 @@
-#import "evss_common.typ" as evss
 #import "checklist.typ"
 
 #let section = checklist.section
@@ -62,7 +61,7 @@
           //UTKAST \
           EVSS - Evektor Sportstar \
           #set text(size: 9pt)
-          Version: #evss.version \
+          Version: #sys.inputs.version \
           //http://github.com/hin/typst-checklist
         ]
       )
