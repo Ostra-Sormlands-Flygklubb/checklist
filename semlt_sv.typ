@@ -6,10 +6,10 @@
 #let side_title = [
   PA-28 Archer II - SE-MLT
   #box(width: 1fr, repeat[~])
-  Endast VFR dager
+  Endast VFR
 ]
 
-#let frame_height = 280mm
+#let frame_height = 270mm
 #let frame_width = 95mm
 #let frame_thickness = 0.5mm
 
@@ -121,7 +121,7 @@
         + Radio Master .. ON
         + Höjdmätare .. INSTÄLLD
         + Transponder .. STBY
-        + *Autopilot funktion/avstängd .. KONTROLL*
+        + Autopilot funktion/avstängd .. KONTROLL
         + Bränsletank .. HÖGER
       ]
     )
