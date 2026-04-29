@@ -22,6 +22,7 @@
   width: 100mm,
   height: 290mm,
   stroke: black + 0.5mm,
+  title_bgcolor: gray,
   content
 ) = {
   page(
@@ -43,7 +44,7 @@
           block(
             inset: 2mm,
             width: 100%,
-            fill: gray,
+            fill: title_bgcolor,
             [
               #set align(right)
               #set align(horizon)
