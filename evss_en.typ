@@ -62,7 +62,6 @@
           EVSS - Evektor Sportstar \
           #set text(size: 9pt)
           Version: #sys.inputs.version \
-          //http://github.com/hin/typst-checklist
         ]
       )
     )
@@ -276,7 +275,7 @@
         #set align(right + bottom)
         #set text(size: 8pt)
         Hans Insulander, ÖSFK \
-        https://github.com/hin/osfk-checklist
+        https://github.com/Ostra-Sormlands-Flygklubb/checklist
       ]
     )
 
