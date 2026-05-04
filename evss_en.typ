@@ -87,7 +87,7 @@
         + Flaps free .. IN - T/O - L1 - L2 - IN
         + Trim .. check
         + Fuel gauge .. check
-        + Fuel selector .. LEFT
+        + Fuel selector .. least amount
         + Tacho time .. note
         + Canopy .. close & lock
         + Propeller area (tow bar).. clear
@@ -119,16 +119,16 @@
         + Control stick and rudder pedals .. free
         + TRIM .. neutral
         + SOCKET .. OFF
-        + FUEL PUMP .. ON
         + LDG LIGHT .. ON
         + Flaps .. T/O
-        + Fuel selector .. RIGHT
+        + Fuel selector .. best tank
+        + FUEL PUMP .. OFF
         + *Oil temperature .. ≥ 50°C*
         + Ignition check .. 4000 rpm \
           KEY .. L - BOTH- R - BOTH \
           RPM .. drop ≤ 300 rpm, diff ≤ 120 rpm \
           CARB HEAT .. check
-        + Fuel selector .. best tank
+        + FUEL PUMP .. ON
         + Canopy .. closed & locked
         + Take-off time .. note
         + Emergency checklist + TEM .. repeat

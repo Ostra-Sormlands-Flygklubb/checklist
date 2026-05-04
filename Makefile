@@ -2,7 +2,7 @@ all: targets
 
 # SE-MMB / SE-MMC (EVSS)
 
-EVSS_VERSION=2026-03-07
+EVSS_VERSION=2026-05-04-draft
 
 TARGETS = \
 	Checklist_SV_EVSS_${EVSS_VERSION}.pdf \

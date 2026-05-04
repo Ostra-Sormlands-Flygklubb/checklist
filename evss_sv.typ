@@ -88,7 +88,7 @@
         + Klaff kontroll .. IN - T/O - L1 - L2 - IN
         + Trim .. kontroll
         + Bränslemängd .. kontroll
-        + Bränslekran .. LEFT
+        + Bränslekran .. minsta mängd
         + Tachotid .. notera
         + Huv .. stäng & lås
         + Propellerfält (dragstång) .. fritt
@@ -121,16 +121,16 @@
         + Roder kontroll .. fulla utslag
         + TRIM .. neutral
         + SOCKET .. OFF
-        + FUEL PUMP .. ON
         + LDG LIGHT .. ON
         + Klaff .. T/O
-        + Bränslekran .. RIGHT
+        + Bränslekran .. bästa tank
+        + FUEL PUMP .. OFF
         + *Oljetemp .. ≥ 50°C*
         + Tändningskontroll .. 4000 rpm \
           KEY .. L - BOTH- R - BOTH \
           Varvtal .. drop ≤ 300 rpm, diff ≤ 120 rpm \
           CARB HEAT .. kontroll
-        + Bränslekran .. bästa tank
+        + FUEL PUMP .. ON
         + Huv .. stängd & låst
         + Starttid .. notera
         + Nödchecklista + TEM .. repetera
