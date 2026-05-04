@@ -119,26 +119,26 @@
         + Control stick and rudder pedals .. free
         + TRIM .. neutral
         + SOCKET .. OFF
-        + LDG LIGHT .. ON
         + Flaps .. T/O
         + Fuel selector .. best tank
         + FUEL PUMP .. OFF
         + *Oil temperature .. ≥ 50°C*
         + Ignition check .. 4000 rpm \
-          Ignition .. L - BOTH- R - BOTH \
+          Ignition .. L - BOTH - R - BOTH \
           RPM .. drop ≤ 300 rpm, diff ≤ 120 rpm \
           CARB HEAT .. check
-        + FUEL PUMP .. ON
         + Canopy .. closed & locked
-        + Take-off time .. note
-        + Emergency checklist + TEM .. repeat
       ]
     )
 
-    #section(checklist.color_ground, [On the runway],
+    #section(checklist.color_ground, [Before take-off],
       [
         + Transponder .. ALT
+        + FUEL PUMP .. ON
+        + LDG LIGHT .. ON
         + Abort/reject point .. determine
+        + Take-off time .. note
+        + Emergency checklist + TEM .. repeat
       ]
     )
 

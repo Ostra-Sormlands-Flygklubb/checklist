@@ -121,26 +121,26 @@
         + Roder kontroll .. fulla utslag
         + TRIM .. neutral
         + SOCKET .. OFF
-        + LDG LIGHT .. ON
         + Klaff .. T/O
         + Bränslekran .. bästa tank
         + FUEL PUMP .. OFF
         + *Oljetemp .. ≥ 50°C*
         + Tändningskontroll .. 4000 rpm \
-          Ignition .. L - BOTH- R - BOTH \
+          Ignition .. L - BOTH - R - BOTH \
           Varvtal .. drop ≤ 300 rpm, diff ≤ 120 rpm \
           CARB HEAT .. kontroll
-        + FUEL PUMP .. ON
         + Huv .. stängd & låst
-        + Starttid .. notera
-        + Nödchecklista + TEM .. repetera
       ]
     )
 
-    #section(checklist.color_ground, [På rullbanan],
+    #section(checklist.color_ground, [Före start],
       [
         + Transponder .. ALT
+        + FUEL PUMP .. ON
+        + LDG LIGHT .. ON
         + Avdragspunkt .. fastställ
+        + Starttid .. notera
+        + Nödchecklista + TEM .. repetera
       ]
     )
 
