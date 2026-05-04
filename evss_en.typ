@@ -102,7 +102,7 @@
         + CHOKE (if needed) .. OUT
         + THROTTLE .. idle
         + Foot brakes .. apply
-        + KEY .. START
+        + Ignition .. START
         + *Oil pressure .. ≥2 bar within 10 sek*
         + CHOKE .. IN
         + Engine gauges .. check
@@ -125,7 +125,7 @@
         + FUEL PUMP .. OFF
         + *Oil temperature .. ≥ 50°C*
         + Ignition check .. 4000 rpm \
-          KEY .. L - BOTH- R - BOTH \
+          Ignition .. L - BOTH- R - BOTH \
           RPM .. drop ≤ 300 rpm, diff ≤ 120 rpm \
           CARB HEAT .. check
         + FUEL PUMP .. ON
@@ -218,7 +218,7 @@
         + AVIONICS .. OFF
         + Electricity consumers except BEACON .. OFF
         + GEN + AUX GEN .. OFF
-        + KEY .. STOP + out (hook)
+        + Ignition .. STOP + out (hook)
         + BEACON .. OFF
         + Tacho time .. note
         + MASTER SWITCH .. OFF
@@ -245,7 +245,7 @@
             + CARB HEAT .. OUT
             + CHOKE .. IN
             + THROTTLE .. idle
-            + KEY L + R .. best circuit
+            + Ignition L + R .. best circuit
             + Restart (if stopped) .. attempt
             + Harness .. tighten / info PAX
             + Transponder .. 7700

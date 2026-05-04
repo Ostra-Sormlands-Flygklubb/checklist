@@ -103,7 +103,7 @@
         + CHOKE (vid behov) .. UT
         + THROTTLE .. tomgång
         + Fotbromsar .. tryck
-        + KEY .. START
+        + Ignition .. START
         + *Oljetryck .. ≥2 bar inom 10 sek*
         + CHOKE .. IN
         + Övriga motorvärden .. kontroll
@@ -127,7 +127,7 @@
         + FUEL PUMP .. OFF
         + *Oljetemp .. ≥ 50°C*
         + Tändningskontroll .. 4000 rpm \
-          KEY .. L - BOTH- R - BOTH \
+          Ignition .. L - BOTH- R - BOTH \
           Varvtal .. drop ≤ 300 rpm, diff ≤ 120 rpm \
           CARB HEAT .. kontroll
         + FUEL PUMP .. ON
@@ -220,7 +220,7 @@
         + AVIONICS .. OFF
         + Elförbrukare utom BEACON .. OFF
         + GEN + AUX GEN .. OFF
-        + KEY .. STOP + ut (krok)
+        + Ignition .. STOP + ut (krok)
         + BEACON .. OFF
         + Tachotid .. notera
         + MASTER SWITCH .. OFF
@@ -247,7 +247,7 @@
             + CARB HEAT .. UT
             + CHOKE .. IN
             + THROTTLE .. tomgång
-            + KEY L + R .. bästa krets
+            + Ignition L + R .. bästa krets
             + Återstart (om stannat) .. försök
             + Säkerhetsbälte .. dra åt / info PAX
             + Transponder .. 7700
