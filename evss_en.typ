@@ -245,7 +245,7 @@
             + CARB HEAT .. OUT
             + CHOKE .. IN
             + THROTTLE .. idle + 1 cm
-            + Ignition L + R .. best circuit
+            + Ignition L + R (if rotating).. best circuit
             + Restart (if stopped) .. attempt
             + Harness .. tighten / info PAX
             + Transponder .. 7700

@@ -247,7 +247,7 @@
             + CARB HEAT .. UT
             + CHOKE .. IN
             + THROTTLE .. tomgång + 1 cm
-            + Ignition L + R .. bästa krets
+            + Ignition L + R (om roterar) .. bästa krets
             + Återstart (om stannat) .. försök
             + Säkerhetsbälte .. dra åt / info PAX
             + Transponder .. 7700
