@@ -244,7 +244,7 @@
             + Fuel selector .. switch
             + CARB HEAT .. OUT
             + CHOKE .. IN
-            + THROTTLE .. idle
+            + THROTTLE .. idle + 1 cm
             + Ignition L + R .. best circuit
             + Restart (if stopped) .. attempt
             + Harness .. tighten / info PAX

@@ -246,7 +246,7 @@
             + Bränslekran .. skifta
             + CARB HEAT .. UT
             + CHOKE .. IN
-            + THROTTLE .. tomgång
+            + THROTTLE .. tomgång + 1 cm
             + Ignition L + R .. bästa krets
             + Återstart (om stannat) .. försök
             + Säkerhetsbälte .. dra åt / info PAX
