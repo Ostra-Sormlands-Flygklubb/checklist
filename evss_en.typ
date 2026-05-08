@@ -110,7 +110,7 @@
         + AVIONICS SWITCH + IC .. ON
         + Engine warming up .. 2500 rpm
         + Altimeter .. QFE, QNH?
-        + Radio & Navigator .. set
+        + Radio & Nav .. set
         + Transponder .. STBY
       ]
     )

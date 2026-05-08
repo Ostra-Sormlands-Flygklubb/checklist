@@ -111,7 +111,7 @@
         + AVIONICS SWITCH + IC .. ON
         + Motorvärmning .. 2500 rpm
         + Höjdmätare .. QFE, QNH?
-        + Radio & Navigator .. inställd
+        + Radio & Nav .. inställd
         + Transponder .. STBY
       ]
     )
