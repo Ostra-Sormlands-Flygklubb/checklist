@@ -169,7 +169,7 @@
     #section(checklist.color_air, [Stigning],
       [
         + Stigfart: klaff T/O .. 57 kt
-        + På 300 ft: klaff IN .. 65 kt
+        + Klaff .. IN på säker höjd
         + LDG LIGHT .. OFF
         + Motorinstrument .. kontroll
       ]

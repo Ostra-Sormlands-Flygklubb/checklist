@@ -167,7 +167,7 @@
     #section(checklist.color_air, [Climb],
       [
         + Climb speed: Flaps T/O .. 57 kt
-        + At 300 ft: Flaps IN .. 65 kt
+        + Flaps .. IN at safe altitude
         + LDG LIGHT .. OFF
         + Engine instruments .. check
       ]
