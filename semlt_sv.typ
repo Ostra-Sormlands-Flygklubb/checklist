@@ -79,7 +79,7 @@
     )
 */
 
-    #section(checklist.color_ground, [Före motorstart],
+    #section(checklist.color_preboarding, [Före motorstart],
       [
         + Parkeringsbroms .. TILL
         + Passagerare .. INFORMERADE

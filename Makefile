@@ -24,17 +24,33 @@ Checklist_EN_EVSS_${EVSS_VERSION}_print.pdf: Checklist_EN_EVSS_${EVSS_VERSION}.p
 
 # SE-MLT (P28A)
 
-SEMLT_VERSION=2026-03-03-draft
+SEMLT_VERSION=2026-04-29
 
 TARGETS += \
 	Checklist_SV_SE-MLT_${SEMLT_VERSION}.pdf \
-	Checklist_SV_SE-MLT_${SEMLT_VERSION}_print.pdf
+	Checklist_SV_SE-MLT_${SEMLT_VERSION}_print.pdf \
+	Checklist_EN_SE-MLT_${SEMLT_VERSION}.pdf \
+	Checklist_EN_SE-MLT_${SEMLT_VERSION}_print.pdf \
+	Checklist_EN_IFR_SE-MLT_${SEMLT_VERSION}.pdf \
+	Checklist_EN_IFR_SE-MLT_${SEMLT_VERSION}_print.pdf
 
 Checklist_SV_SE-MLT_${SEMLT_VERSION}.pdf: semlt_sv.typ checklist.typ
 	typst compile --input "version=${SEMLT_VERSION}" ${TYPST_ARGS} semlt_sv.typ $@
 
 Checklist_SV_SE-MLT_${SEMLT_VERSION}_print.pdf: Checklist_SV_SE-MLT_${SEMLT_VERSION}.pdf print_page.py
 	python3 print_page.py Checklist_SV_SE-MLT_${SEMLT_VERSION}.pdf $@
+
+Checklist_EN_SE-MLT_${SEMLT_VERSION}.pdf: semlt_en.typ checklist.typ
+	typst compile --input "version=${SEMLT_VERSION}" ${TYPST_ARGS} semlt_en.typ $@
+
+Checklist_EN_SE-MLT_${SEMLT_VERSION}_print.pdf: Checklist_EN_SE-MLT_${SEMLT_VERSION}.pdf print_page.py
+	python3 print_page.py Checklist_EN_SE-MLT_${SEMLT_VERSION}.pdf $@
+
+Checklist_EN_IFR_SE-MLT_${SEMLT_VERSION}.pdf: semlt_en_ifr.typ checklist.typ
+	typst compile --input "version=${SEMLT_VERSION}" ${TYPST_ARGS} semlt_en_ifr.typ $@
+
+Checklist_EN_IFR_SE-MLT_${SEMLT_VERSION}_print.pdf: Checklist_EN_IFR_SE-MLT_${SEMLT_VERSION}.pdf print_page.py
+	python3 print_page.py Checklist_EN_IFR_SE-MLT_${SEMLT_VERSION}.pdf $@
 
 
 
